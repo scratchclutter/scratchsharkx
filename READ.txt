@@ -1,0 +1,8 @@
+Hey! Scratchshark is not done, but you can help. 
+
+How? Comment on my profile that you would like to help towards Scratchshark, and I will consider letting you.
+
+Scratchshark isn't just for copying the project and using it, it's towards using vulnerabilities in the main project to
+manipulate Variables, Lists, and Cloud Variables into changing themselves in the original project. For example, if a project
+saved their variables in a cloud, you could say, manipulate a cloud variable using Scratchshark to clear all of the data!
+Ask anything you want, from clearing data to overloading lists!
